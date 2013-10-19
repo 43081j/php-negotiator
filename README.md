@@ -3,7 +3,7 @@ PHP Negotiator
 
 A minimal PHP content negotiation library to process common headers such as media types, encodings, charsets and so on.
 
-Quite a few concepts are taken from (/federomero/negotiator).
+Quite a few concepts are taken from https://github.com/federomero/negotiator.
 
 Accept (Media Types)
 ==============
