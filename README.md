@@ -9,7 +9,7 @@ Accept (Media Types)
 ==============
 
 ```php
-require 'negotiator.php';
+require 'vendor/autoload.php';
 
 $negotiator = new Negotiator\Parser([
 	'accept-charset' => 'utf-8, iso-8859-1;q=0.8, utf-7;q=0.2',

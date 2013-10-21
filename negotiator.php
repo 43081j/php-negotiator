@@ -1,6 +1,5 @@
 <?php
 
-/*
- * Include the negotiator files
- */
-require 'lib/parse.php';
+require 'vendor/autoload.php';
+
+$negotiator = new Negotiator\Parser;
