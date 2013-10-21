@@ -1,7 +1,8 @@
 {
-	"name": "",
-	"license": "apache2",
+	"name": "43081j/php-negotiator",
+	"license": "Apache-2.0",
 	"type": "project",
+	"keywords": ["content", "negotiation", "accept"],
 	"description": "Minimal PHP content negotiation library",
 	"require": {
 		"php": ">=5.3.3",
