@@ -5,7 +5,7 @@
 	"keywords": ["content", "negotiation", "accept"],
 	"description": "Minimal PHP content negotiation library",
 	"require": {
-		"php": ">=5.3.3",
+		"php": ">=5.3.3"
 	},
 	"autoload": {
 		"psr-0": {"Negotatior\\": "lib/"}
